@@ -1,0 +1,33 @@
+* {
+  font-size: 13px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+#display-info {
+  display: none;
+}
+
+.list-group {
+  /* height: 90px; */
+  overflow-y: auto;
+}
+
+textarea {
+  font-family:  sans-serif;
+}
+
+.container {
+  width: 400px !important;
+}
+
+td {
+  padding: 0;
+}
+
+.param {
+  padding: 10px;
+  width: 100%;
+}
